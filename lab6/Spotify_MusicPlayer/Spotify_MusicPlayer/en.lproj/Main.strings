@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Track Title"; ObjectID = "7Wg-Zx-4OQ"; */
+"7Wg-Zx-4OQ.text" = "Track Title";
+
+/* Class = "UILabel"; text = "Artist Name"; ObjectID = "IbG-Fz-eMu"; */
+"IbG-Fz-eMu.text" = "Artist Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UAe-oT-SYz"; */
+"UAe-oT-SYz.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YGM-OK-FMj"; */
+"YGM-OK-FMj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "YUv-lu-1HT"; */
+"YUv-lu-1HT.text" = "0:00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oMa-T5-WFt"; */
+"oMa-T5-WFt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "p1U-3d-RJO"; */
+"p1U-3d-RJO.text" = "0:00";
