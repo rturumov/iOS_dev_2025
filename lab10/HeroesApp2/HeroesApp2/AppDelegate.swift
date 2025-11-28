@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  123
+//  HeroesApp
 //
-//  Created by Rasul Turumov on 29.11.2025.
+//  Created by Rassul Turumov on 29.11.2025.
 //
 
 import UIKit
